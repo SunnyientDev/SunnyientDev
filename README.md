@@ -6,6 +6,6 @@
 
 💌 You can contact me via [Telegram](https://t.me/Sunny_Oronovskaya)
 
-![SunnyientDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnyientDev&show_icons=true&theme=vue-dark)
+![SunnyientDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnyientDev&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyientDev&langs_count=15&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyientDev&langs_count=15&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
