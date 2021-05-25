@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-😄 - [My CV](https://drive.google.com/drive/folders/1HRgLCCWMBoHAiMu1uBu3SAzgjA6Cv46t?usp=sharing)
+😄 My CV is [here](https://drive.google.com/drive/folders/1HRgLCCWMBoHAiMu1uBu3SAzgjA6Cv46t?usp=sharing)
 
-🔭 - [Space project - Search for the Sunyaev-Zeldovich effect on the maps of microwave background radiation from the Planck space mission](https://github.com/SunnyientDev/SZ-detection)
+🔭 Space project: Search for the Sunyaev-Zeldovich effect on the maps of microwave background radiation from the Planck space mission is [here](https://github.com/SunnyientDev/SZ-detection)
 
-📖 - [All my courses](https://github.com/SunnyientDev/all_courses)
+📖 All courses are in this [repository](https://github.com/SunnyientDev/all_courses)
 
-💌 - You can contact me via [Telegram](https://t.me/Sunny_Oronovskaya)
+💌 You can contact me via [Telegram](https://t.me/Sunny_Oronovskaya)
 
 <!--
 **SunnyientDev/SunnyientDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
