@@ -2,7 +2,7 @@
 
 😄 My CV is [here](https://drive.google.com/drive/folders/1HRgLCCWMBoHAiMu1uBu3SAzgjA6Cv46t?usp=sharing)
 
-🔭 Space project: Search for the Sunyaev-Zeldovich effect on the maps of microwave background radiation from the Planck space mission is [here](https://github.com/SunnyientDev/SZ-detection)
+🔭 Space project is [here](https://github.com/SunnyientDev/SZ-detection)
 
 📖 All courses are in this [repository](https://github.com/SunnyientDev/all_courses)
 
