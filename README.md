@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyientDev&langs_count=15&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![tpofd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SunnyientDev&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![SunnyientDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SunnyientDev&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
